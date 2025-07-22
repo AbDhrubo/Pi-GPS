@@ -33,7 +33,7 @@ We're excited to share our work on geometry problem solving with the community!
 
 <div align="center">
 
-**Junbo Zhao**<sup>1†</sup> • **Ting Zhang**<sup>1†</sup> • **Jiayu Sun**<sup>1</sup> • **Mi Tian**<sup>2</sup> • **Hua Huang**<sup>1✉</sup>
+**Junbo Zhao**<sup>1†</sup> • **Ting Zhang**<sup>1†✉</sup> • **Jiayu Sun**<sup>1</sup> • **Mi Tian**<sup>2</sup> • **Hua Huang**<sup>1✉</sup>
 
 <sup>1</sup>Beijing Normal University　　<sup>2</sup>TAL
 
