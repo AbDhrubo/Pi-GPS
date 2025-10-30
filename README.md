@@ -297,11 +297,13 @@ python Solver/test.py --label final_result \
 If you find our work helpful, please consider citing:
 
 ```bibtex
-@inproceedings{zhao2025pigps,
-  title={Pi-GPS: Enhancing Geometry Problem Solving by Unleashing the Power of Diagrammatic Information},
-  author={Junbo Zhao and Ting Zhang and Jiayu Sun and Mi Tian and Hua Huang},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-  year={2025}
+@InProceedings{Zhao_2025_ICCV,
+    author    = {Zhao, Junbo and Zhang, Ting and Sun, Jiayu and Tian, Mi and Huang, Hua},
+    title     = {Pi-GPS: Enhancing Geometry Problem Solving by Unleashing the Power of Diagrammatic Information},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {1526-1536}
 }
 ```
 
