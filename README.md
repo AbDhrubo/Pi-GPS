@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ICCV-2025-red?style=for-the-badge&logo=ieee&logoColor=white" alt="ICCV 2025">
   <img src="https://img.shields.io/badge/Status-Accepted-brightgreen?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Paper-ArXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper">
 </p>
 
 <p align="center">
