@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2503.05543">📄 Paper</a> •
+  <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Zhao_Pi-GPS_Enhancing_Geometry_Problem_Solving_by_Unleashing_the_Power_of_ICCV_2025_paper.pdf">📄 Paper</a> •
   <a href="#-getting-started">🚀 Quick Start</a> •
   <a href="#-performance">📊 Results</a> •
   <a href="#-citation">📚 Citation</a>
